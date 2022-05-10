@@ -15,7 +15,5 @@ int main(){
 	printf("%d \n",y);
 	/*printf("%d",y++);*/
 	/*printf("%l",z);*/
-	return 0;
-	
-	
-	}
+
+}
